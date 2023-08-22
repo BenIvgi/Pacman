@@ -1,0 +1,13 @@
+Date:25/06/2023 13:16:04
+Pacman:('127.0.0.1', 5000)
+Clyde:('127.0.0.1', 5000)
+Score:544
+IsWin:True
+Lives:2
+
+Date:25/06/2023 13:16:40
+Pacman:('127.0.0.1', 5000)
+Clyde:('127.0.0.1', 5000)
+Score:15
+IsWin:False
+Lives:0
